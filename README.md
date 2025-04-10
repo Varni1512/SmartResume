@@ -58,7 +58,13 @@ The landing page includes:
 ```bash
 git clone https://github.com/yourusername/smartresume.git
 cd smartresume
+```
+
+```bash
 pip install -r requirements.txt
+```
+
+```bash
 python job.py
 ```
 
