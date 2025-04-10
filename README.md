@@ -85,6 +85,7 @@ smartresume/
 ├── index.html 
 ├── styles.css
 ├── uploads/
+├── requirements.txt
 ├── candidates.db
 └── README.md
 ```
