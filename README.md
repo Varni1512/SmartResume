@@ -29,7 +29,7 @@ The landing page includes:
 
 ## 🧠 How It Works
 
-![SmartResume Workflow](images/flow.png)
+![SmartResume Workflow](image/flow.png)
 
 ---
 
